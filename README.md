@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects as frotend
 - 📫 How to reach me 
 - mail: gnavarro.soberanes@gmail.com
-- LinkedIn: @gabrielnavarros https://www.linkedin.com/in/gabrielnavarros/
+- LinkedIn:https://www.linkedin.com/in/gabrielnavarros/
 
 <!---
 gabrielnavarros/gabrielnavarros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
