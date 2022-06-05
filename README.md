@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabrielnavarros
-- 👀 I’m interested in data science and full stack dev
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on projects as jr dev
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning JavaScript, HTML, CSS and React
+- 💞️ I’m looking to collaborate on projects as frotend
 - 📫 How to reach me @gabrielnavarros
 
 <!---
